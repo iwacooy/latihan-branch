@@ -5,5 +5,4 @@ pada guthib <br>
 kwkw
 
 
-mending belajar ai <br>
-ngetes fork dan kolaborasi
+mending belajar ai
